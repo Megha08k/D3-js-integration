@@ -1,0 +1,3 @@
+<div class="tooltip" *ngIf="utility.tooltipCollection?.label" [style.left.px]="utility.tooltipLeft" [style.top.px]="utility.tooltipTop">
+    <button mat-raised-button> {{ utility.tooltipCollection?.label }}: {{ utility.tooltipCollection?.value }} </button>
+  </div>

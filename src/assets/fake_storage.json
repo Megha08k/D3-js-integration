@@ -1,0 +1,14 @@
+[
+    { "label": "Apple", "value": 15 },
+    { "label": "Vivo", "value": 23 },
+    { "label": "OnePlus", "value": 53 },
+    { "label": "Oppo", "value": 40 },
+    { "label": "Samsung", "value": 67 },
+    { "label": "Redimi", "value": 88 },
+    { "label": "Xiomi", "value": 11 },
+    { "label": "RealMe", "value": 36 },
+    { "label": "LAVA", "value": 28 },
+    { "label": "LG", "value": 46 },
+    { "label": "ASUS", "value": 52 },
+    { "label": "MOTROLA", "value": 70 }
+]
